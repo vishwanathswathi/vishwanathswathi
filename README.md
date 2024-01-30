@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwanathswathi&label=Profile%20views&color=0e75b6&style=flat" alt="vishwanathswathi" /> </p>
+
 
 - 💬 Ask me about **python, Django,MySQL**
 

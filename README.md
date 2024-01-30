@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **vishwanathswathi/vishwanathswathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/swathi vishwanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swathi vishwanath" height="30" width="40" /></a>
+<a href="linkedin.com/in/vishwanath-swathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swathi vishwanath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
